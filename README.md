@@ -1,83 +1,97 @@
-<!-- Typing intro banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=800&lines=Hey%2C+I'm+Lokesh+Kolamala!;AI+%26+DS+Student+%7C+Tech+Explorer+%7C+Code+Nerd;Vibing+with+LLMs%2C+Python%2C+APIs%2C+and+Automation;" />
+  <img src="https://i.imgur.com/sVdVhf6.gif" alt="AI vibes" width="600"/>
 </p>
 
-<!-- GIF Animation -->
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="300" alt="AI animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Lokesh+Kolamala!;AI+%26+DS+student+%7C+Builder+%7C+Curious+and+money-minded;Still+bulking%2C+in+body+and+code+both."/>
 </p>
 
 ---
 
-### 🧠 Who Am I?
-
-I'm **Lokesh**, a 3rd-year AI & DS student at IIITDM Kurnool —  
-passionate about building cool projects, messing with LLMs, and figuring out smart ways to automate and earn.
-
-- 👨‍💻 Tech Head with a thing for clean logic and cool UIs
-- 📚 Constantly learning, debugging, and Googling
-- 🎯 Current focus: AI agents, RAG, workflow automation, and smart projects
-
-> If not AI, I'd be a CA. But here we are… still calculating, just differently.
+### 🔍 About Me  
+```ts
+const lokesh = {
+  college: "IIITDM Kurnool",
+  currentStatus: "3rd-year BTech student (AI & DS)",
+  learning: ["LLMs", "Agents", "APIs", "Automation"],
+  funFacts: [
+    "Skinny gym bro 🏋️‍♂️",
+    "Rider in the making (Royal Enfield Himalayan dream)",
+    "TFI Addict 🎬",
+    "Money Heist — Professor Supremacy",
+    "Got into tech after winning a LEGO robotics comp",
+  ],
+};
+```
 
 ---
 
 ### ⚡ Current Projects
 
-- 🎬 RAG-powered Movie Sequel Predictor  
-- 🏏 Cricket Field Placement AI (based on ball type, not batsman)  
-- ⚙️ Task & workflow automation using AI agents  
+- 🎬 **Movie Sequel Generator** → Built with RAG & creativity  
+- 🏏 **Cricket Field Predictor** → Predicts based on ball type  
+- 🤖 **Workflow Agents** → Automating repetitive tasks smartly  
+- 💬 **AI Portfolio Twin** → Speaks like me, thinks like me (check below!)
 
 ---
 
-### 🛠️ Tools & Tech Stack
+### 🛠️ Tech Stack I Vibe With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,html,css,git,github,vscode,figma,bash" />
-</p>
-
-- LLMs | APIs | Prompt Engineering  
-- Machine Learning | Deep Learning  
-- Cursor + VS Code = my zone
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lokesh-916&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Lokesh-916&theme=tokyonight" height="170"/>
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,html,css,git,github,bash,vscode,figma" />
 </p>
 
 ---
 
-### 💬 Fun Stuff About Me
-
-- Still skinny, still lifting — bulking is my background process
-- Big TFI & Money Heist fan (Professor supremacy)
-- Into deep conversations, clean UIs, and messy scratchpads
-- Hate waiting, slow systems, and leaving stuff half-done
-
-> Dream: Ride a Royal Enfield Himalayan to Ladakh with a brain full of code and a backpack full of intent.
-
----
-
-### 🌐 Connect with Me
+### 📈 GitHub Heat
 
 <p align="center">
-  <a href="mailto:lokeshbabukolamala@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/lokeshbabu-kolamala"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Lokesh-916"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lokesh-916&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Lokesh-916&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-### 🔥 Bonus Vibe
+### 🧠 Random Stuff I Believe In
 
-> Built this README and portfolio with brain fog, late-night playlists, and a lot of “let’s just try this once” moments.
-
-Big thanks to **Cursor** — carried me through the vibe-coding phases like a legend.
+- Luck is fake. I’m an **effort > everything** guy  
+- I finish things fast — hate last-minute pressure  
+- Not great at small talk, but big on deep stuff  
+- Perfectionist… which slows me down, sometimes  
+- Overcomplicate things... then simplify again 🙃
 
 ---
 
+### 💼 Portfolio Link
+
+> Check out my **AI-powered Digital Twin** — it answers like me, shows my work, and has zero small talk:
+
+🎯 [**Click here to try it out (best on PC)**](https://your-digital-twin.vercel.app)
+
+---
+
+### 📫 Reach Out
+
+<p align="center">
+  <a href="mailto:lokeshbabukolamala@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/lokeshbabu-kolamala"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Lokesh-916"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 👀 Bonus
+
+- Cursor saved me from 999 bugs and 1 mental breakdown  
+- I don’t care for job titles — I care if it pays well  
+- Dream: Be FIRE, travel the world, earn smart, live smart
+
+> “I don't want to go viral — I want to be valuable.”
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="200" alt="peace out"/>
+</p>
