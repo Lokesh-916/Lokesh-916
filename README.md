@@ -76,7 +76,7 @@
   <a href="https://linkedin.com/in/lokeshbabu-kolamala"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:lokeshbabukolamala@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Lokesh-916"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://lokesh-twin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel"></a>
+  <a href="https://lokie-ai-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel"></a>
 </div>
 
 ---
