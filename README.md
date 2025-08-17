@@ -63,7 +63,7 @@
 
 | Project | Description | Preview |
 |---------|-------------|---------|
-| 🔮 [AI Digital Twin Portfolio](https://lokesh-twin.vercel.app) | A smart portfolio powered by a custom AI agent that talks like me and answers questions | <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="80"/> |
+| 🔮 [AI Digital Twin Portfolio](https://lokie-ai-portfolio.vercel.app) | A smart portfolio powered by a custom AI agent that talks like me and answers questions | <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="80"/> |
 | 🎬 Movie Sequel Predictor | Predicts sequel stories using RAG based on genre, characters, and plot | <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80"/> |
 | 🏏 Cricket Field Placement AI | Suggests optimal field placements based on ball strategy | <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80"/> |
 | ⚙️ Automation Workflows | Personal agents for automating emails, reminders, scheduling | <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="80"/> |
