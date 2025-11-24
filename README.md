@@ -1,15 +1,10 @@
 # ✨ Lokesh Babu Kolamala
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+%40+IIITDM+Kurnool;Building+Next%2DGen+AI+Agents;Generative+AI+%7C+NLP+%7C+Deep+Learning;Learning+Relentlessly%2C+Building+Creatively" alt="Typing SVG" />
-</p> -->
-
 <p align="center">
   <a href="https://github.com/Lokesh-916">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Data+Science+%40+IIITDM+Kurnool;Building+Next%2DGen+AI+Agents;Generative+AI+%7C+NLP+%7C+Deep+Learning;Learning+Relentlessly%2C+Building+Creatively&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
   </a>
 </p>
-
 
 <p align="center">
   <em>B.Tech in AI & Data Science (8.85 CGPA) | Practical AI Builder | Focusing on Agentic AI & MLOps</em>
@@ -17,67 +12,62 @@
 
 ---
 
-## 🚀 Key Highlights & Expertise
+## 💼 Core Expertise
 
-- 🤖 **AI Intern @ Samsung Innovation Campus (Dec 2024 - Mar 2025)** – Built a **Voice-Based Speaker Recognition system** using advanced RNN and LSTM architectures.  
-- 🥇 **OpenAI Buildathon (Sep 2025)** – Designed and delivered **DineAssist**, an AI-powered menu guide using **LangChain and GPT-4**, achieving **94% voice-query accuracy**.  
-- 💡 **Deep Learning Specialization** – Developed and optimized LSTM-based RNNs for sequential audio data, reaching a test accuracy of **84%**.  
-- 🛠 **Hands-on Experience** – Participated in **5+ hackathons** and earned **20+ professional certifications** in AI, Data Science, and Cloud (AWS).  
+### **AI Engineering & Applied Machine Intelligence**
 
----
+* Architecting intelligent systems with a focus on **Agentic AI**, autonomous workflows, and tool-enabled reasoning.
+* Hands-on experience building robust models for **speech**, **text**, and **structured data**.
+* Skilled in designing scalable ML pipelines and experimenting with deep learning architectures.
 
-## 💻 Technical Stack
+### **Cloud, Data & Deployment Engineering**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG%20(Concepts)-0077B6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</div>
+* Experience deploying ML systems with **AWS** (Lambda, EC2, S3, DynamoDB, SageMaker).
+* Strong backend understanding using **Flask**, **FastAPI**, **Streamlit**.
+* Efficient database design with **MySQL**, **PostgreSQL**, and **MongoDB**.
 
-<details>
-<summary>⚡ More Skills</summary>
+### **Programming & Scientific Computing**
 
-| Category | Tools & Concepts |
-|:---|:---|
-| **Agentic AI** | LangChain, CrewAI, AutoGen, Prompt Engineering, Tool Use/Function Calling, RAG |
-| **ML/DL** | scikit-learn, TensorFlow, Keras, Pandas, NumPy |
-| **Cloud/Web** | AWS (SageMaker, Lambda, EC2, S3, DynamoDB), Flask, Streamlit |
-| **Databases** | MySQL, MongoDB, PostgreSQL |
-
-</details>
+* Proficient with **Python**, NumPy, Pandas, and scikit-learn.
+* Model building & optimization using **TensorFlow**, **Keras**, and deep learning fundamentals.
 
 ---
 
-## 🏗 Featured Projects
+## 🧠 Skills Breakdown
 
-| 🔮 Project | 💡 Description | ⚙️ Tech Stack | 🎥 Preview |
-|:---|:---|:---|:---:|
-| **DineAssist (OpenAI Buildathon)** | An **AI-powered menu guide** for restaurants to increase upsells. Built scalable AI stack handling **200+ menu items** with **94% voice-query accuracy**. | Python, **LangChain, OpenAI API (GPT-4, Whisper)**, Flask, React, PostgreSQL | <img src="https://user-images.githubusercontent.com/91504420/216762503-3b8f86d8-fef2-4e9f-bc7a-1c95e3bb2fa6.gif" width="200"/> |
-| **Voice-Based Speaker Recognition** | System for individual identification using voice biometrics, achieved **96% training accuracy** and extracted **13 MFCCs** for enhanced model robustness. | Python, **Keras, Librosa**, Streamlit | <img src="https://user-images.githubusercontent.com/91358687/191692391-c63bb5b1-36b5-4dd1-81b2-fc9f9c3a6f8a.gif" width="200"/> |
-| **Agent Automation** | Workflow automation using autonomous agents for scheduling/email processing. | CrewAI/AutoGen, Python, APIs | <img src="https://user-images.githubusercontent.com/47692620/212547909-30db22c2-9a3e-4bc0-b7a5-5f38e5c7ab72.gif" width="200"/> |
+### **1. Agentic & Generative AI**
+
+* LangChain, CrewAI, AutoGen
+* RAG frameworks & hybrid retrieval design
+* Prompt engineering for production systems
+* Function calling, tool orchestration, structured reasoning
+
+### **2. Machine Learning & Deep Learning**
+
+* Feature engineering, classical ML pipelines
+* LSTMs, CNNs, RNN architectures for sequential data
+* Model tuning, evaluation, and optimization
+
+### **3. Cloud & Deployment**
+
+* AWS: EC2, Lambda, S3, DynamoDB, SageMaker
+* REST API development with Flask / FastAPI
+* Streamlit for rapid prototyping
+
+### **4. Data Handling & Databases**
+
+* SQL fundamentals & query optimization
+* MongoDB and document-based storage
+* ETL workflows, data preprocessing, and analytics
 
 ---
 
-## 📚 Certifications & Achievements
+## 📜 Certifications & Achievements
 
-- **20+ Professional Certifications** in AI, Cloud, and Data Science.  
-- **Hackathon Participation** – 5+ National level events (AI, Product Design, and Automation).  
-- **Academic Performance** – CGPA **8.85** in B.Tech (AI & DS).  
-- **Awards** – Winner of **Samsung Innovation Campus showcase**, OpenAI Buildathon finalist.  
-
----
-
-## 🎯 Beyond Code
-
-- **Financial Independence** 🔥 Passionate about the **FIRE movement** – career that fuels both growth and freedom.  
-- **Movies & Motivation** 🎬 Hardcore **Telugu movie buff**   
-- **Fitness** 🏋️‍♂️ Lifting weights & lifting code (still waiting for muscle memory in both 😅).  
-- **Adventure** 🏍 Dreaming of a Royal Enfield Himalayan ride to Ladakh.  
+* 20+ certifications across AI, Cloud, and Data Systems.
+* Demonstrated expertise in national-level hackathons across AI and automation.
+* Strong academic foundation with an **8.85 CGPA** in B.Tech (AI & DS).
+* Recognized at **Samsung Innovation Campus Showcase** and OpenAI Buildathon.
 
 ---
 
