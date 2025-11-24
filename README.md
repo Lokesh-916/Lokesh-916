@@ -39,7 +39,7 @@
 
 ### **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,r,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,r,cpp,sqlite" />
 
 ### **Databases**
 
@@ -56,6 +56,7 @@
 <img src="https://img.shields.io/badge/RAG%20(Retrieval--Augmented%20Generation)-0A66C2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-1E90FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tool%20Use%20%2F%20Function%20Calling-6A5ACD?style=for-the-badge" />
 
 ### **Machine Learning & Deep Learning**
 
@@ -63,11 +64,15 @@
 
 ### **Data Analysis & Manipulation**
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,excel" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
 ### **Data Visualization**
 
-<img src="https://skillicons.dev/icons?i=matplotlib,seaborn,powerbi" />
+<img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
 
 ### **Web & Cloud Technologies**
 
@@ -75,7 +80,23 @@
 
 ### **Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=jupyter,colab,vscode,git,linux" />
+<img src="https://skillicons.dev/icons?i=jupyter,colab,visualstudio,vscode,git,linux" /> <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge" />
+
+</div>
+
+---
+
+## 💬 Words I Live By
+
+<div align="center">
+
+> **“I don’t chase mastery. I engineer it.”**
+
+> **“When the world slows down, I accelerate.”**
+
+> **“I build systems that don’t blink—even when the world does.”**
+
+> **“Precision isn’t a habit. It’s my default.”**
 
 </div>
 
@@ -93,11 +114,10 @@
 ## 🌐 Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/lokeshbabu-kolamala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:lokeshbabukolamala@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Lokesh-916"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://lokie-ai-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"></a>
-
+  <a href="https://linkedin.com/in/lokeshbabu-kolamala"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="mailto:lokeshbabukolamala@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://github.com/Lokesh-916"><img src="https://skillicons.dev/icons?i=github"/></a>
+  <a href="https://lokie-ai-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </div>
 
 ---
@@ -113,6 +133,14 @@
 > **“I build systems that don’t blink—even when the world does.”**
 
 > **“Precision isn’t a habit. It’s my default.”**
+
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/lokeshbabu-kolamala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:lokeshbabukolamala@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Lokesh-916"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://lokie-ai-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
 </div>
 
