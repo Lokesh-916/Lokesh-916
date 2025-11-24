@@ -12,24 +12,12 @@
 
 ---
 
-## 💼 Core Expertise
+## 💼 Core Strengths
 
-### **AI Engineering & Applied Machine Intelligence**
-
-* Architecting intelligent systems with a focus on **Agentic AI**, autonomous workflows, and tool-enabled reasoning.
-* Hands-on experience building robust models for **speech**, **text**, and **structured data**.
-* Skilled in designing scalable ML pipelines and experimenting with deep learning architectures.
-
-### **Cloud, Data & Deployment Engineering**
-
-* Experience deploying ML systems with **AWS** (Lambda, EC2, S3, DynamoDB, SageMaker).
-* Strong backend understanding using **Flask**, **FastAPI**, **Streamlit**.
-* Efficient database design with **MySQL**, **PostgreSQL**, and **MongoDB**.
-
-### **Programming & Scientific Computing**
-
-* Proficient with **Python**, NumPy, Pandas, and scikit-learn.
-* Model building & optimization using **TensorFlow**, **Keras**, and deep learning fundamentals.
+* **Agentic Systems & Production AI** — I build autonomous pipelines that reason, act, and recover. If it can be automated, I make it reliable.
+* **Audio & Sequential Modeling** — Practical experience with RNNs/LSTMs for voice-based systems and sequence modeling that actually ship.
+* **Scalable Deployments** — From prototype to prod: APIs, serverless, and cloud infra that resist scale and latency.
+* **Data-first Engineering** — Clean inputs, pragmatic features, measurable metrics — models follow the data, not opinions.
 
 ---
 
@@ -80,7 +68,9 @@
 
 ### **Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=jupyter,colab,visualstudio,vscode,git,linux" /> <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jupyter-FFCC00?style=for-the-badge&logo=jupyter&logoColor=000" />
+<img src="https://img.shields.io/badge/Google%20Colab-4285F4?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,linux" /> <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge" />
 
 </div>
 
@@ -142,6 +132,22 @@
   <a href="https://github.com/Lokesh-916"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://lokie-ai-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
+</div>
+
+## 🧾 About Me
+
+I’m Lokesh — an engineer who treats problems like code: break them down, automate the tedium, tune the rest. Outside work I’m neck-deep in Telugu cinema, weight training, and planning the next long ride.
+
+**Interesting bits:**
+
+* Born to solve: I prefer building systems that can out-perform a human at repetitive, brittle tasks.
+* Movie fuel: A good Telugu film + a cup of filter coffee = my best idea generation loop.
+* Fitness hacker: I track lifts like experiments and progress them like model hyperparameters.
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="700" alt="coding animation"/>
 </div>
 
 <h3 align="center">
