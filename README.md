@@ -35,30 +35,50 @@
 
 ## 🧠 Skills Breakdown
 
-### **1. Agentic & Generative AI**
+<div align="center">
 
-* LangChain, CrewAI, AutoGen
-* RAG frameworks & hybrid retrieval design
-* Prompt engineering for production systems
-* Function calling, tool orchestration, structured reasoning
+### **Languages**
 
-### **2. Machine Learning & Deep Learning**
+<img src="https://skillicons.dev/icons?i=python,r,cpp,sqlite" />
 
-* Feature engineering, classical ML pipelines
-* LSTMs, CNNs, RNN architectures for sequential data
-* Model tuning, evaluation, and optimization
+### **Databases**
 
-### **3. Cloud & Deployment**
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-* AWS: EC2, Lambda, S3, DynamoDB, SageMaker
-* REST API development with Flask / FastAPI
-* Streamlit for rapid prototyping
+### **Agentic AI Frameworks**
 
-### **4. Data Handling & Databases**
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CrewAI-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AutoGen-222222?style=for-the-badge" />
 
-* SQL fundamentals & query optimization
-* MongoDB and document-based storage
-* ETL workflows, data preprocessing, and analytics
+### **Techniques & Concepts**
+
+<img src="https://img.shields.io/badge/RAG%20(Retrieval--Augmented%20Generation)-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-1E90FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tool%20Use%20%2F%20Function%20Calling-6A5ACD?style=for-the-badge" />
+
+### **Machine Learning & Deep Learning**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,keras,sklearn" />
+
+### **Data Analysis & Manipulation**
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy,excel" />
+
+### **Data Visualization**
+
+<img src="https://skillicons.dev/icons?i=matplotlib,seaborn,powerbi" />
+
+### **Web & Cloud Technologies**
+
+<img src="https://skillicons.dev/icons?i=flask,aws" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+### **Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=jupyter,colab,visualstudio,vscode,git,linux" /> <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge" />
+
+</div>
 
 ---
 
@@ -71,14 +91,30 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/lokeshbabu-kolamala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:lokeshbabukolamala@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Lokesh-916"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://lokie-ai-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="tel:9502236561"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
+</div>
+
+---
+
+## 💬 Words I Live By
+
+<div align="center">
+
+> **“I don’t chase mastery. I engineer it.”**
+
+> **“When the world slows down, I accelerate.”**
+
+> **“I build systems that don’t blink—even when the world does.”**
+
+> **“Precision isn’t a habit. It’s my default.”**
+
 </div>
 
 <h3 align="center">
