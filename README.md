@@ -5,6 +5,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Lokesh-916">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Data+Science+%40+IIITDM+Kurnool;Building+Next%2DGen+AI+Agents;Generative+AI+%7C+NLP+%7C+Deep+Learning;Learning+Relentlessly%2C+Building+Creatively&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
+  </a>
+</p>
+
+
+<p align="center">
   <em>B.Tech in AI & Data Science (8.85 CGPA) | Practical AI Builder | Focusing on Agentic AI & MLOps</em>
 </p>
 
