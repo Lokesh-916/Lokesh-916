@@ -39,7 +39,7 @@
 
 ### **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,r,cpp,sqlite" />
+<img src="https://skillicons.dev/icons?i=python,r,c,cpp" />
 
 ### **Databases**
 
@@ -56,7 +56,6 @@
 <img src="https://img.shields.io/badge/RAG%20(Retrieval--Augmented%20Generation)-0A66C2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-1E90FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tool%20Use%20%2F%20Function%20Calling-6A5ACD?style=for-the-badge" />
 
 ### **Machine Learning & Deep Learning**
 
@@ -76,7 +75,7 @@
 
 ### **Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=jupyter,colab,visualstudio,vscode,git,linux" /> <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=jupyter,colab,vscode,git,linux" />
 
 </div>
 
