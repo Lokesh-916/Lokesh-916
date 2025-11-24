@@ -1,8 +1,8 @@
 # ✨ Lokesh Babu Kolamala
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+%40+IIITDM+Kurnool;Building+Next%2DGen+AI+Agents;Generative+AI+%7C+NLP+%7C+Deep+Learning;Learning+Relentlessly%2C+Building+Creatively" alt="Typing SVG" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/Lokesh-916">
