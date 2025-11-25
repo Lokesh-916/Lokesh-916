@@ -2,13 +2,29 @@
 
 <p align="center">
   <a href="https://github.com/Lokesh-916">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Data+Science+%40+IIITDM+Kurnool;Building+Next%2DGen+AI+Agents;Generative+AI+%7C+NLP+%7C+Deep+Learning;Learning+Relentlessly%2C+Building+Creatively&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Data+Science+%40+IIITDM+Kurnool;Creating+what+I+wish+existed;Data+Science+%7C+CV+%7C+Agents;Built+by+Discipline%2C+Powered+by+Curiosity&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
   </a>
 </p>
 
 <p align="center">
   <em>B.Tech in AI & Data Science (8.85 CGPA) | IIIT Kurnool | Focusing on DSA & Agentic AI</em>
 </p>
+
+---
+## 🧾 About Me
+
+### **Professionally**
+
+* I enjoy building AI systems that think in steps, act with context, and behave predictably.
+* My work style: structured, fast, and always grounded in measurable improvement.
+* I prefer clarity over complexity — simple systems that scale elegantly.
+
+### **Personally**
+
+* I am an egoistic soul with a kind heart
+* Telugu cinema buff — I treat movies like mood boosters and creativity fuel.
+* Fitness-focused: I track workouts like experiments and progress like model tuning.
+* Love bikes, long rides, and the idea of earning freedom early.
 
 ---
 
@@ -32,7 +48,6 @@
 * Developed **DineAssist**, a scalable menu-intelligence system using LangChain + GPT models.
 * Achieved **94% voice-query accuracy** via tuned prompts, retrieval flow, and agent behavior.
 * Integrated structured reasoning with a custom tool-calling layer.
-
 
 ---
 
@@ -87,8 +102,8 @@
 <tr>
 <td align="center"><h3>Developer Tools</h3>
 
-<img src="https://img.shields.io/badge/Jupyter-FFCC00?style=for-the-badge&logo=jupyter&logoColor=000"/>
-<img src="https://img.shields.io/badge/Google%20Colab-4285F4?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="[https://img.shields.io/badge/Jupyter-FFCC00?style=for-the-badge&logo=jupyter&logoColor=000](https://www.clipartmax.com/png/middle/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png)" width=48/>
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=linux"/>
@@ -115,22 +130,6 @@
 
 ---
 
-## 🧾 About Me
-
-### **Professionally**
-
-* I enjoy building AI systems that think in steps, act with context, and behave predictably.
-* My work style: structured, fast, and always grounded in measurable improvement.
-* I prefer clarity over complexity — simple systems that scale elegantly.
-
-### **Personally**
-
-* I am an egoistic soul with a kind heart
-* Telugu cinema buff — I treat movies like mood boosters and creativity fuel.
-* Fitness-focused: I track workouts like experiments and progress like model tuning.
-* Love bikes, long rides, and the idea of earning freedom early.
-
----
 
 ## 🌐 Connect
 
