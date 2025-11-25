@@ -22,9 +22,10 @@
 
 ### **AI Intern — Infosys Springboard (8 Weeks)**
 
-* Developed an **AI-based music generation application** driven by mood and user‑defined parameters.
-* Integrated generative models with preprocessing and synthesis layers.
-* Deployed a streamlined interface for user input and real‑time audio generation.
+* Developed an **AI-based music generation application** driven by mood and user-defined parameters.
+* The music was generated using **Meta’s MusicGen model**.
+* Integrated generative pipelines with preprocessing and synthesis layers.
+* Deployed a streamlined interface for user input and real-time audio generation.
 
 ### **OpenAI Buildathon Finalist (2025)**
 
@@ -61,71 +62,65 @@
 
 <div align="center">
 
-### **Languages & Databases**
-
 <table>
 <tr>
-<td><img src="https://skillicons.dev/icons?i=python"/></td>
-<td><img src="https://skillicons.dev/icons?i=r"/></td>
-<td><img src="https://skillicons.dev/icons?i=cpp"/></td>
-<td><img src="https://skillicons.dev/icons?i=sqlite"/></td>
-<td><img src="https://skillicons.dev/icons?i=mysql"/></td>
-<td><img src="https://skillicons.dev/icons?i=mongodb"/></td>
+<td align="center"><h3>Languages & Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=r"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=sqlite"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</td>
+
+<td align="center"><h3>Agentic AI & Concepts</h3>
+
+<img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AutoGen-222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Eng-8A2BE2?style=for-the-badge"/>
+</td>
 </tr>
-</table>
 
-### **Agentic AI & Core Concepts**
-
-<table>
 <tr>
-<td><img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge"/></td>
-<td><img src="https://img.shields.io/badge/CrewAI-111?style=for-the-badge"/></td>
-<td><img src="https://img.shields.io/badge/AutoGen-222?style=for-the-badge"/></td>
-<td><img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/></td>
-<td><img src="https://img.shields.io/badge/MCP-1E90FF?style=for-the-badge"/></td>
-<td><img src="https://img.shields.io/badge/Prompt%20Eng-8A2BE2?style=for-the-badge"/></td>
+<td align="center"><h3>ML, DL & Data</h3>
+
+<img src="https://skillicons.dev/icons?i=sklearn"/>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://skillicons.dev/icons?i=keras"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</td>
+
+<td align="center"><h3>Visualization, Web & Cloud</h3>
+
+<img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
+<img src="https://skillicons.dev/icons?i=flask"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws"/>
+</td>
 </tr>
-</table>
 
-### **ML, DL & Data Workflows**
-
-<table>
 <tr>
-<td><img src="https://skillicons.dev/icons?i=sklearn"/></td>
-<td><img src="https://skillicons.dev/icons?i=tensorflow"/></td>
-<td><img src="https://skillicons.dev/icons?i=keras"/></td>
-<td><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></td>
+<td align="center"><h3>Developer Tools</h3>
+
+<img src="https://img.shields.io/badge/Jupyter-FFCC00?style=for-the-badge&logo=jupyter&logoColor=000"/>
+<img src="https://img.shields.io/badge/Google%20Colab-4285F4?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://img.shields.io/badge/Cursor-000?style=for-the-badge"/>
+</td>
+
+<td></td>
 </tr>
 </table>
-
-### **Visualization, Web & Cloud**
-
-<table>
-<tr>
-<td><img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge"/></td>
-<td><img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge"/></td>
-<td><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/></td>
-<td><img src="https://skillicons.dev/icons?i=flask"/></td>
-<td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></td>
-<td><img src="https://skillicons.dev/icons?i=aws"/></td>
-</tr>
-</table>
-
-### **Developer Tools**
-
-<table>
-<tr>
-<td><img src="https://img.shields.io/badge/Jupyter-FFCC00?style=for-the-badge&logo=jupyter&logoColor=000"/></td>
-<td><img src="https://img.shields.io/badge/Google%20Colab-4285F4?style=for-the-badge&logo=googlecolab&logoColor=white"/></td>
-<td><img src="https://skillicons.dev/icons?i=vscode"/></td>
-<td><img src="https://skillicons.dev/icons?i=git"/></td>
-<td><img src="https://skillicons.dev/icons?i=linux"/></td>
-<td><img src="https://img.shields.io/badge/Cursor-000?style=for-the-badge"/></td>
-</tr>
-</table>
-
 </div>
 
 ---
