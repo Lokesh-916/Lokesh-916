@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Lokesh-916">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Data+Science+%40+IIITDM+Kurnool;Creating+what+I+wish+existed;Data+Science+%7C+CV+%7C+Agents;Built+by+Discipline%2C+Powered+by+Curiosity&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+build.+I+learn.+I+evolve.;Creating+what+I+wish+existed;Data+Science+%7C+CV+%7C+Agents;Built+by+Discipline%2C+Powered+by+Curiosity&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
   </a>
 </p>
 
@@ -102,7 +102,7 @@
 <tr>
 <td align="center"><h3>Developer Tools</h3>
 
-<img src="[https://img.shields.io/badge/Jupyter-FFCC00?style=for-the-badge&logo=jupyter&logoColor=000](https://www.clipartmax.com/png/middle/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png)" width=48/>
+<img src="https://raw.githubusercontent.com/jithurjacob/vscode-nbpreviewer/master/images/jupyter.png" width="48"/>
 <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
 <img src="https://skillicons.dev/icons?i=git"/>
