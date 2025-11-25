@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Lokesh-916">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+build.+I+learn.+I+evolve.;Creating+what+I+wish+existed;Data+Science+%7C+CV+%7C+Agents;Built+by+Discipline%2C+Powered+by+Curiosity&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+build.+I+learn.+I+evolve;Creating+what+I+wish+existed;Data+Science+%7C+CV+%7C+Agents;Built+by+Discipline%2C+Powered+by+Curiosity&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 * Engineered MFCC-driven feature pipelines and optimized model performance.
 * Delivered end-to-end workflows from data prep → training → evaluation → Streamlit deployment.
 
-### **OpenAI Buildathon Finalist (2025)**
+### **OpenAI Buildathon (2025)**
 
 * Developed **DineAssist**, a scalable menu-intelligence system using LangChain + GPT models.
 * Achieved **94% voice-query accuracy** via tuned prompts, retrieval flow, and agent behavior.
