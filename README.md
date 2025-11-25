@@ -12,67 +12,136 @@
 
 ---
 
-## 💼 Core Strengths
+## 💼 Experience
 
-* **Agentic Systems & Production AI** — I build autonomous pipelines that reason, act, and recover. If it can be automated, I make it reliable.
-* **Audio & Sequential Modeling** — Practical experience with RNNs/LSTMs for voice-based systems and sequence modeling that actually ship.
-* **Scalable Deployments** — From prototype to prod: APIs, serverless, and cloud infra that resist scale and latency.
-* **Data-first Engineering** — Clean inputs, pragmatic features, measurable metrics — models follow the data, not opinions.
+### **AI Intern — Samsung Innovation Campus (Dec 2024 – Mar 2025)**
+
+* Built a production-ready **voice-based speaker recognition system** using RNN/LSTM.
+* Engineered MFCC-driven feature pipelines and optimized model performance.
+* Delivered end-to-end workflows from data prep → training → evaluation → Streamlit deployment.
+
+### **OpenAI Buildathon Finalist (2025)**
+
+* Developed **DineAssist**, a scalable menu-intelligence system using LangChain + GPT models.
+* Achieved **94% voice-query accuracy** by tuning prompts, retrieval flow, and agent behavior.
+* Integrated structured reasoning with a custom tool-calling layer.
+
+---
+
+## 🧱 What I Work Best At
+
+### **AI Systems Engineering**
+
+* Designing autonomous agent pipelines, retrieval systems, and tool-enabled reasoning models.
+* Crafting reliable prompts, workflows, and structured AI behaviors.
+
+### **Deep Learning for Real-World Problems**
+
+* Audio, text, and sequential modeling.
+* Building architectures that not only perform well but survive noisy data.
+
+### **Cloud, APIs & Deployment**
+
+* Turning prototypes into usable services using Flask/FastAPI, AWS, and Streamlit.
+* Comfortable with API design, serverless patterns, and scalable infra.
 
 ---
 
 ## 🧠 Skills Breakdown
 
-<div align="center">
-
 ### **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,r,cpp,sqlite" />
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=python"/><br>Python</td>
+<td><img src="https://skillicons.dev/icons?i=r"/><br>R</td>
+<td><img src="https://skillicons.dev/icons?i=cpp"/><br>C/C++</td>
+<td><img src="https://skillicons.dev/icons?i=sqlite"/><br>SQL</td>
+</tr>
+</table>
 
 ### **Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=mysql"/><br>MySQL</td>
+<td><img src="https://skillicons.dev/icons?i=mongodb"/><br>MongoDB</td>
+</tr>
+</table>
 
 ### **Agentic AI Frameworks**
 
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CrewAI-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AutoGen-222222?style=for-the-badge" />
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge"/><br>LangChain</td>
+<td><img src="https://img.shields.io/badge/CrewAI-111?style=for-the-badge"/><br>CrewAI</td>
+<td><img src="https://img.shields.io/badge/AutoGen-222?style=for-the-badge"/><br>AutoGen</td>
+</tr>
+</table>
 
 ### **Techniques & Concepts**
 
-<img src="https://img.shields.io/badge/RAG%20(Retrieval--Augmented%20Generation)-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-1E90FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tool%20Use%20%2F%20Function%20Calling-6A5ACD?style=for-the-badge" />
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/><br>RAG</td>
+<td><img src="https://img.shields.io/badge/MCP-1E90FF?style=for-the-badge"/><br>MCP</td>
+<td><img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge"/><br>Prompt Engineering</td>
+<td><img src="https://img.shields.io/badge/Tool%20Use%20%2F%20Function%20Calling-6A5ACD?style=for-the-badge"/><br>Tool Use</td>
+</tr>
+</table>
 
 ### **Machine Learning & Deep Learning**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,keras,sklearn" />
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=sklearn"/><br>scikit-learn</td>
+<td><img src="https://skillicons.dev/icons?i=tensorflow"/><br>TensorFlow</td>
+<td><img src="https://skillicons.dev/icons?i=keras"/><br>Keras</td>
+</tr>
+</table>
 
 ### **Data Analysis & Manipulation**
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br>Pandas</td>
+<td><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/><br>NumPy</td>
+<td><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/><br>Excel</td>
+</tr>
+</table>
 
 ### **Data Visualization**
 
-<img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge"/><br>Matplotlib</td>
+<td><img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge"/><br>Seaborn</td>
+<td><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/><br>Power BI</td>
+</tr>
+</table>
 
 ### **Web & Cloud Technologies**
 
-<img src="https://skillicons.dev/icons?i=flask,aws" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=flask"/><br>Flask</td>
+<td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/><br>Streamlit</td>
+<td><img src="https://skillicons.dev/icons?i=aws"/><br>AWS</td>
+</tr>
+</table>
 
 ### **Developer Tools**
 
-<img src="https://img.shields.io/badge/Jupyter-FFCC00?style=for-the-badge&logo=jupyter&logoColor=000" />
-<img src="https://img.shields.io/badge/Google%20Colab-4285F4?style=for-the-badge&logo=googlecolab&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,linux" /> <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge" />
-
-</div>
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/Jupyter-FFCC00?style=for-the-badge&logo=jupyter&logoColor=000"/><br>Jupyter</td>
+<td><img src="https://img.shields.io/badge/Google%20Colab-4285F4?style=for-the-badge&logo=googlecolab&logoColor=white"/><br>Colab</td>
+<td><img src="https://skillicons.dev/icons?i=vscode"/><br>VS Code</td>
+<td><img src="https://skillicons.dev/icons?i=git"/><br>Git</td>
+<td><img src="https://skillicons.dev/icons?i=linux"/><br>Linux</td>
+<td><img src="https://img.shields.io/badge/Cursor-000?style=for-the-badge"/><br>Cursor</td>
+</tr>
+</table>
 
 ---
 
@@ -136,17 +205,19 @@
 
 ## 🧾 About Me
 
-I’m Lokesh — an engineer who treats problems like code: break them down, automate the tedium, tune the rest. Outside work I’m neck-deep in Telugu cinema, weight training, and planning the next long ride.
+### **Professionally**
 
-**Interesting bits:**
+* I enjoy building AI systems that think in steps, act with context, and behave predictably.
+* My work style: structured, fast, and always grounded in measurable improvement.
+* I prefer clarity over complexity — simple systems that scale elegantly.
 
-* Born to solve: I prefer building systems that can out-perform a human at repetitive, brittle tasks.
-* Movie fuel: A good Telugu film + a cup of filter coffee = my best idea generation loop.
-* Fitness hacker: I track lifts like experiments and progress them like model hyperparameters.
+### **Personally**
 
----
+* Telugu cinema buff — I treat movies like mood boosters and creativity fuel.
+* Fitness-focused: I track workouts like experiments and progress like model tuning.
+* Love bikes, long rides, and the idea of earning freedom early.
 
-<div align="center">
+<div align="center">="center">
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="700" alt="coding animation"/>
 </div>
 
