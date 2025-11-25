@@ -49,7 +49,7 @@
 
 ## 🧠 Skills Breakdown
 
-### **Languages**
+<div align="center">
 
 <table>
 <tr>
@@ -57,82 +57,37 @@
 <td><img src="https://skillicons.dev/icons?i=r"/><br>R</td>
 <td><img src="https://skillicons.dev/icons?i=cpp"/><br>C/C++</td>
 <td><img src="https://skillicons.dev/icons?i=sqlite"/><br>SQL</td>
-</tr>
-</table>
-
-### **Databases**
-
-<table>
-<tr>
 <td><img src="https://skillicons.dev/icons?i=mysql"/><br>MySQL</td>
 <td><img src="https://skillicons.dev/icons?i=mongodb"/><br>MongoDB</td>
 </tr>
-</table>
 
-### **Agentic AI Frameworks**
-
-<table>
 <tr>
 <td><img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge"/><br>LangChain</td>
 <td><img src="https://img.shields.io/badge/CrewAI-111?style=for-the-badge"/><br>CrewAI</td>
 <td><img src="https://img.shields.io/badge/AutoGen-222?style=for-the-badge"/><br>AutoGen</td>
-</tr>
-</table>
-
-### **Techniques & Concepts**
-
-<table>
-<tr>
 <td><img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/><br>RAG</td>
 <td><img src="https://img.shields.io/badge/MCP-1E90FF?style=for-the-badge"/><br>MCP</td>
-<td><img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge"/><br>Prompt Engineering</td>
-<td><img src="https://img.shields.io/badge/Tool%20Use%20%2F%20Function%20Calling-6A5ACD?style=for-the-badge"/><br>Tool Use</td>
+<td><img src="https://img.shields.io/badge/Prompt%20Eng-8A2BE2?style=for-the-badge"/><br>Prompt Eng</td>
 </tr>
-</table>
 
-### **Machine Learning & Deep Learning**
-
-<table>
 <tr>
 <td><img src="https://skillicons.dev/icons?i=sklearn"/><br>scikit-learn</td>
 <td><img src="https://skillicons.dev/icons?i=tensorflow"/><br>TensorFlow</td>
 <td><img src="https://skillicons.dev/icons?i=keras"/><br>Keras</td>
-</tr>
-</table>
-
-### **Data Analysis & Manipulation**
-
-<table>
-<tr>
 <td><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br>Pandas</td>
 <td><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/><br>NumPy</td>
 <td><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/><br>Excel</td>
 </tr>
-</table>
 
-### **Data Visualization**
-
-<table>
 <tr>
 <td><img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge"/><br>Matplotlib</td>
 <td><img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge"/><br>Seaborn</td>
 <td><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/><br>Power BI</td>
-</tr>
-</table>
-
-### **Web & Cloud Technologies**
-
-<table>
-<tr>
 <td><img src="https://skillicons.dev/icons?i=flask"/><br>Flask</td>
 <td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/><br>Streamlit</td>
 <td><img src="https://skillicons.dev/icons?i=aws"/><br>AWS</td>
 </tr>
-</table>
 
-### **Developer Tools**
-
-<table>
 <tr>
 <td><img src="https://img.shields.io/badge/Jupyter-FFCC00?style=for-the-badge&logo=jupyter&logoColor=000"/><br>Jupyter</td>
 <td><img src="https://img.shields.io/badge/Google%20Colab-4285F4?style=for-the-badge&logo=googlecolab&logoColor=white"/><br>Colab</td>
@@ -142,6 +97,8 @@
 <td><img src="https://img.shields.io/badge/Cursor-000?style=for-the-badge"/><br>Cursor</td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -195,13 +152,6 @@
 
 </div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/lokeshbabu-kolamala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:lokeshbabukolamala@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Lokesh-916"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://lokie-ai-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"></a>
-
-</div>
 
 ## 🧾 About Me
 
