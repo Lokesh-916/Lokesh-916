@@ -36,20 +36,24 @@
 
 ## 🧱 What I Work Best At
 
-### **AI Systems Engineering**
+### **Systematic Problem Solving**
 
-* Designing autonomous agent pipelines, retrieval systems, and tool-enabled reasoning models.
-* Crafting reliable prompts, workflows, and structured AI behaviors.
+* I break complex problems into predictable, testable components.
+* Prefer structure → iteration → refinement over guesswork.
 
-### **Deep Learning for Real-World Problems**
+### **Building Reliable AI Systems**
 
-* Audio, text, and sequential modeling.
-* Building architectures that not only perform well but survive noisy data.
+* Designing workflows where agents, retrieval, and APIs operate with consistency.
+* Focused on making models understandable, debuggable, and production-friendly.
 
-### **Cloud, APIs & Deployment**
+### **Practical ML Engineering**
 
-* Turning prototypes into usable services using Flask/FastAPI, AWS, and Streamlit.
-* Comfortable with API design, serverless patterns, and scalable infra.
+* Treat ML like engineering, not magic — clean data, measurable improvements, maintainable pipelines.
+
+### **Shipping With Discipline**
+
+* Lean builds, clean APIs, minimal noise.
+* I value clarity over cleverness.
 
 ---
 
@@ -130,13 +134,27 @@
 
 <div align="center">
 
-> **“I don’t chase mastery. I engineer it.”**
+> **“Clarity beats cleverness — every single time.”**
 
-> **“When the world slows down, I accelerate.”**
+> **“If the system fails silently, it was never engineered.”**
 
-> **“I build systems that don’t blink—even when the world does.”**
+> **“Speed matters. Precision matters more.”**
 
-> **“Precision isn’t a habit. It’s my default.”**
+> **“Consistency is a superpower disguised as discipline.”**
+
+> **“Don’t aim to be impressive. Aim to be undeniable.”**
+
+---
+
+### **Famous (but not overused) quotes that match my vibe:**
+
+> **“Amateurs practice until they get it right. Professionals practice until they can’t get it wrong.”** — *unknown*
+
+> **“Slow is smooth, smooth is fast.”** — *US Navy SEAL principle*
+
+> **“The man who moves a mountain begins by carrying away small stones.”** — *Confucius*
+
+> **“Work hard in silence. Let your success make the noise.”** — *Frank Ocean*
 
 </div>
 
