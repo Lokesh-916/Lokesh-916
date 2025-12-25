@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>B.Tech in AI & Data Science (8.85 CGPA) | IIIT Kurnool | Focusing on DSA & Agentic AI</em>
+  <em>B.Tech in AI & Data Science (8.9 CGPA) | IIIT Kurnool | Focusing on DSA & Agentic AI</em>
 </p>
 
 ---
