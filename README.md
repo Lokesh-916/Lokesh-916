@@ -21,7 +21,7 @@
 
 ### **Personally**
 
-* I am an egoistic soul with a kind heart
+* An egoistic soul with a kind heart
 * Telugu cinema buff — I treat movies like mood boosters and creativity fuel.
 * Fitness-focused: I track workouts like experiments and progress like model tuning.
 * Love bikes, long rides, and the idea of earning freedom early.
