@@ -105,7 +105,7 @@
 
 <div align="center">
 
-> **“Amateurs practice until they get it right. Professionals practice until they can’t get it wrong.”** — *unknown*
+> **“Amateurs practice until they get it right. Professionals practice until they can’t get it wrong.”**
 
 > **“Consistency is a superpower disguised as discipline.”**
 
