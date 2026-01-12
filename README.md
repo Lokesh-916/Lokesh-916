@@ -62,11 +62,9 @@
 </td>
 
 <td align="center"><h3>Agentic AI & Concepts</h3>
-<img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/CrewAI-111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AutoGen-222?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-1E90FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt%20Eng-8A2BE2?style=for-the-badge"/>
 </td>
 </tr>
@@ -77,15 +75,19 @@
 </td>
 
 <td align="center"><h3>ML, DL & Data Science</h3>
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,numpy,pandas"/>
-<img src="https://img.shields.io/badge/Scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </td>
 </tr>
 
 <tr>
 <td align="center"><h3>Visualization & Cloud</h3>
-<img src="https://skillicons.dev/icons?i=matplotlib,plotly,streamlit,powershell,aws"/>
-<img src="https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=aws"/>
 </td>
 
 <td align="center"><h3>Developer Tools</h3>
