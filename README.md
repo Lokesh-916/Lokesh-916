@@ -21,7 +21,7 @@
 
 ### **Personally**
 
-* An egoistic soul with a kind heart
+* An egoistic soul with a kind heart.
 * Telugu cinema buff — I treat movies like mood boosters and creativity fuel.
 * Fitness-focused: I track workouts like experiments and progress like model tuning.
 * Love bikes, long rides, and the idea of earning freedom early.
@@ -58,17 +58,11 @@
 <table>
 <tr>
 <td align="center"><h3>Languages & Databases</h3>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=r"/>
-<img src="https://skillicons.dev/icons?i=c"/>
-<img src="https://skillicons.dev/icons?i=cpp"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,mongodb"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </td>
 
 <td align="center"><h3>Agentic AI & Concepts</h3>
-
 <img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CrewAI-111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AutoGen-222?style=for-the-badge"/>
@@ -79,37 +73,31 @@
 </tr>
 
 <tr>
-<td align="center"><h3>ML, DL & Data</h3>
-
-<img src="https://skillicons.dev/icons?i=sklearn"/>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<td align="center"><h3>Full Stack Development</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,flask"/>
 </td>
 
-<td align="center"><h3>Visualization, Web & Cloud</h3>
-
-<img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
-<img src="https://skillicons.dev/icons?i=flask"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=aws"/>
+<td align="center"><h3>ML, DL & Data Science</h3>
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </td>
 </tr>
 
 <tr>
-<td align="center"><h3>Developer Tools</h3>
-
-<img src="https://raw.githubusercontent.com/jithurjacob/vscode-nbpreviewer/master/images/jupyter.png" width="48"/>
-<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
+<td align="center"><h3>Visualization & Cloud</h3>
+<img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws"/>
 </td>
 
-<td></td>
+<td align="center"><h3>Developer Tools</h3>
+<img src="https://skillicons.dev/icons?i=vscode,git,postman,linux"/>
+<img src="https://raw.githubusercontent.com/jithurjacob/vscode-nbpreviewer/master/images/jupyter.png" width="35"/>
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="35"/>
+</td>
 </tr>
 </table>
 </div>
